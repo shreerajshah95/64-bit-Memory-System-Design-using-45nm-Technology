@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kcs431
+HostName                       gauss.poly.edu
+ProcessIdentifier              16116
+ProcessCreationTime_UTC        1512597970
+ProcessCreationTime_Readable   Wed Dec  6 17:06:10 2017 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/kcs431/freepdk45_working_directory/projectpart1/AND_TG/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Wed Dec  6 19:46:08 2017 EST
